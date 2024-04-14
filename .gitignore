@@ -1,0 +1,7 @@
+/node_proj/.parcel-cache/
+/node_proj/dist/
+/node_proj/node_modules/
+/.idea
+/node_proj/config.js
+config.py
+*.pyc
